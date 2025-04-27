@@ -9,6 +9,8 @@ Additionally, the app offers several useful features:
 - **Summary Generation**: Get a summary of the articles.
 - **Chart Generation**: Visualize data with interactive charts.
 
+🚀 [Check it out here on Hugging Face Spaces!](https://huggingface.co/spaces/Venuja-Udukumbura/News-Classification-App)
+
 🚀 [Check it out here on Hugging Face Spaces!](https://huggingface.co/spaces/Tharusha-Randunu/News-Classification-App)
 
 
